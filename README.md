@@ -14,7 +14,7 @@ This repo is just a journal of my learning process :)
 
 | Project | Topic | Status |
 |---|---|---|
-| 01 | Boolean Logic | Not started |
+| 01 | Boolean Logic | started |
 | 02 | Boolean Arithmetic | Not started |
 | 03 | Memory | Not started |
 | 04 | Machine Language | Not started |
